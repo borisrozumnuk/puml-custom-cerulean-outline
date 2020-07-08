@@ -1,0 +1,5 @@
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean-outline/puml-theme-cerulean-outline.puml
+skinparam arrowThickness        1
+skinparam ParticipantPadding    5
+skinparam BoxPadding            10
+skinparam roundcorner           6
